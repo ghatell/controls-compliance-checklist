@@ -90,11 +90,4 @@ This project outlines key cybersecurity controls categorized into **Administrati
 
 ---
 
-## 📂 Files
-
-- `control categories.docx`: Describes cybersecurity control types and purposes
-- `controls and compliance checklist exemplar.docx`: Practical implementation and compliance evaluation for Botium Toys
-
----
-
 > **Note**: This project is for educational and demonstration purposes based on a fictional company.
